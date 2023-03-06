@@ -21,7 +21,7 @@ dependencies {
 //Latest version 0.0.1
 ```
 Please replace x, y and z with the latest version
-numbers: ![](https://jitpack.io/v/intellicar/flash_tag_android_sdk.svg)
+numbers: ![](https://jitpack.io/v/fabrikiot/flash_tag_android_sdk.svg)
 
 ### - Step 3- Optional 
 
